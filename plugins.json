@@ -1,0 +1,41 @@
+[
+	{
+		"name": "Materialize",
+		"description": "Материальный дизайн для элементов UI",
+		"author": "Assasans",
+		"version": "1.0.0",
+		"versions": [
+			{
+				"version": "1.0.0",
+				"url": "http://localhost/materialize-1.0.0.zip",
+				"dir": "materialize"
+			}
+		]
+	},
+	{
+		"name": "Discord Rich Presence",
+		"description": "",
+		"author": "Assasans",
+		"version": "1.0.0",
+		"versions": [
+			{
+				"version": "1.0.0",
+				"url": "http://localhost/discord-rpc-1.0.0.zip",
+				"dir": "discord-rpc"
+			}
+		]
+	},
+	{
+		"name": "Radio",
+		"description": "Внутриигровой аудио проигрыватель",
+		"author": "Assasans",
+		"version": "1.0.0",
+		"versions": [
+			{
+				"version": "1.0.0",
+				"url": "http://localhost/radio-1.0.0.zip",
+				"dir": "radio"
+			}
+		]
+	}
+]
